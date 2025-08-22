@@ -14,16 +14,16 @@ HASHAN-MD BY MR HASHIYA OFC💜 | HASHAN-MD VERSION 1.0
 
 --- 
 
-<a><img src='https://files.catbox.moe/3sd6up.jpg'/></a>
+<a><img src='https://i.ibb.co/Kjq97rcG/3575.jpg'/></a>
 
 ---
 
 <p> <b>Connect With me:</b></p>
 <p>
-<a href="https://wa.me/+94706042889"
+<a href="https://wa.me/+94715865463"
 
 
-> ඔබ whatsapp එකට ලින්ක් කරගත්තට පස්සෙ සීසන් එකේ SHABAN-MD~ මේ කෑල්ල කපා ඉවත් කරන්න නැත්නම් දෝශ ඇති විය හැක... 🫶😙
+> ඔබ whatsapp එකට ලින්ක් කරගත්තට පස්සෙ සීසන් එකේ ASITHA-MD~ මේ කෑල්ල කපා ඉවත් කරන්න නැත්නම් දෝශ ඇති විය හැක... 🫶😙
 
 
 > Get Pair Code (Session ID)
@@ -31,9 +31,9 @@ HASHAN-MD BY MR HASHIYA OFC💜 | HASHAN-MD VERSION 1.0
 
 
 <p align="left">  
-<a href='https://shaban-md-pairweb.zone.id/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+<a href='https://asitha.top/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
 </p>  <p align="left">  
-<a href='https://shaban-md-pairweb.zone.id/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+<a href='https://asitha.top/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
 </p>  
 
 
@@ -44,7 +44,7 @@ HASHAN-MD BY MR HASHIYA OFC💜 | HASHAN-MD VERSION 1.0
 
 
 <p align="left">  
-<a href='https://dashboard.heroku.com/new?template=https://github.com//tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Hashan000-1/WHITE-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
 </p>
 
 
