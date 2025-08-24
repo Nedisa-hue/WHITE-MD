@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "Bm9DyBZT#KzuCT4Qw1CgEriwRXPyvDMVIKa3JT0yr2xVn3PtuUX0",
       "required": true,
-      "value": "your session id"
+      "value": "Bm9DyBZT#KzuCT4Qw1CgEriwRXPyvDMVIKa3JT0yr2xVn3PtuUX0"
     },  
     
     "STICKER_NAME": {
