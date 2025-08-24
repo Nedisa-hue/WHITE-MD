@@ -47,5 +47,10 @@ HASHAN-MD BY MR HASHIYA OFC💜 | HASHAN-MD VERSION 1.0
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Hashan000-1/WHITE-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
 </p>
 
+# OUR BOT CREATE TEAM
+
+*MR HASHIYAh </>*
+*THE CODER KAVIYAh*
+
 
 > POWERED BY HASHAN-MD V1 ⚡
